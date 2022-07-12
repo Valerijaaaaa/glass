@@ -1,0 +1,50 @@
+/* для header */
+header {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+  }
+/* москва */
+.titleLocation {
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.1em;
+}
+/* станьте первым, обратный звонок, в вашем городе нет дилера */
+.titlesHeader {
+    font-size: 12px;
+    line-height: 15px
+}
+/* в вашем городе нет дилера */
+.color {
+    color: #6A6A6A;
+}
+/* станьте первым, обратный звонок */
+
+.colorForTitle {
+    color: #B777BE;
+    text-decoration: none ;
+}
+/* Вкладки - каталог, дилерам, идеи, о компании */
+ul .list {
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.2em;
+}
+/* Заказать обратный звонок*/
+.headerContactsLink {
+    color: #B777BE;
+    text-decoration: none;
+    font-size: 12px;
+}
+.navigationList {
+    text-decoration: none;
+    color: #000000;
+    
+}
+ /* +7 (930)-032-01-11 */
+ .headerContacts {
+    letter-spacing: 0.2em;
+}
+
