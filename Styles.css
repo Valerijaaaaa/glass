@@ -20,10 +20,6 @@ header {
     font-size: 16px;
     line-height: 20px;
     letter-spacing: 0.1em;
-    display: flex;
-    align-items: center;
-    padding: 0px;
-    gap: 8px;
 }
 /* станьте первым, обратный звонок, в вашем городе нет дилера */
 .titlesHeader {
@@ -31,6 +27,11 @@ header {
     line-height: 15px;
    
 }
+.dealer-text {
+    display: flex;
+    align-items: center;
+}
+
 /* в вашем городе нет дилера */
 .color {
     color: #6A6A6A;
@@ -45,7 +46,7 @@ header {
 .logotype {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     margin: 18 852 53 852px;
 }
 /* Вкладки - каталог, дилерам, идеи, о компании */
